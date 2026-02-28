@@ -1,10 +1,7 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" />
-</p>
 <h1 align="center">🤖 NEURAL ARCHITECT vX.0 🤖</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&color=00F0FF&center=true&vCenter=true&width=900&lines=Initializing+Neural+Core...;Technical+Lead+Online;Architecting+.NET+Ecosystems;Deploying+to+Azure+Cloud+Matrix;Training+AI+Models;System+Status:+UNSTOPPABLE" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" />
 </p>
 
 <p align="center">
